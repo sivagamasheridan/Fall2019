@@ -27,7 +27,7 @@ public class StudentTester
    {
        System.out.println(i.getName()+ " " +i.getAge());
        
-   System.out.println("test");
+   System.out.println("test78");
    }
    }
 }
