@@ -26,6 +26,8 @@ public class StudentTester
    for(TestStudent i: name)
    {
        System.out.println(i.getName()+ " " +i.getAge());
+       
+   System.out.println("test");
    }
-}
+   }
 }
